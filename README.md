@@ -41,15 +41,15 @@ This Streamlit application is designed to count the number of sheet stacks in a 
 
 ## Screenshots
 
-### **Interface**
+## **Interface**
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/1.png)
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/2.png)
-### **Custom Parameters Setting**
+## **Custom Parameters Setting**
 - **Sample Image**
 - **Result**
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/3.png)
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/4.png)
-### **Use Optimal Parameters**
+## **Use Optimal Parameters**
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/5.png)
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/6.png)
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/7.png)
