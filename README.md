@@ -58,7 +58,7 @@ The threshold parameter in the Hough Line Transform determines the minimum numbe
 ```bash
   threshold = st.number_input('Threshold', min_value=1, max_value=200, value=80)
 ```
-- **Minimum Line Length (min_length)**
+- **Minimum Line Length (min_length):**
 The minimum line length parameter specifies the shortest length of a line segment that should be detected. Any line shorter than this length will be ignored.
 
 - **Higher Values:** A higher minimum line length will ignore shorter lines, focusing on longer, more significant lines.
@@ -67,7 +67,7 @@ The minimum line length parameter specifies the shortest length of a line segmen
   min_length = st.number_input('Minimum Line Length', min_value=1, max_value=200, value=50)
 
 ```
-- **Maximum Line Gap (max_gap)**
+- **Maximum Line Gap (max_gap):**
 The maximum line gap parameter defines the maximum allowed gap between points on the same line to link them together. It is used to join broken line segments.
 
 - **Higher Values:** A higher maximum line gap will connect distant line segments, potentially merging lines that are not actually connected.
