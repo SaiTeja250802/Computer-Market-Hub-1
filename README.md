@@ -38,8 +38,15 @@ This Streamlit application is designed to count the number of sheet stacks in a 
 - **Line Detection and Counting:** Uses the Hough Line Transform to detect lines in the edge-detected image and counts the lines representing sheets.
 - **Results Display:** Shows the original image, edge-detected image, and lines image side by side, along with the optimal parameters and the count of detected lines and sheets.
 
+# Usage 
 
-## Screenshots
+- **Upload an Image:** Click on the "Upload an image" button to upload an image of the sheet stack.
+Toggle Parameter Options:
+- **Use Custom Parameters:** Check this box to enter custom parameters for threshold, minimum line length, and maximum line gap.
+- **Use Optimal Parameters:** Check this box to allow the application to find the optimal parameters automatically.
+- **Run the Detection:** Click on the "Run" button to start the detection process.
+- **View Results:** The application will display the processed images and the count of detected lines and sheets.
+## **Screenshots**
 
 ## **Interface**
 ![App Screenshot](https://github.com/SaiTeja250802/Computer-Market-Hub-1/blob/main/1.png)
